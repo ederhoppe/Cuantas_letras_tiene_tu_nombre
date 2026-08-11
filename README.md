@@ -1,5 +1,3 @@
-# Ejercicio 1: Contador de Caracteres Interactivo
-
 ## Descripción
 Este script es una herramienta de interacción básica que solicita el nombre del usuario y devuelve la longitud exacta del mismo. Es el primer paso para entender cómo Python procesa entradas de datos externas.
 
